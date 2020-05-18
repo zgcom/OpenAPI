@@ -1,7 +1,6 @@
 # OpenAPI 开放API
 
 新版本针对所有用户开放的API接口.
-公测期间：所有zg.com域名使用zgnext.com代替，正式上线时全部切换到zg.com
 
 ## Api Endpoints
 
