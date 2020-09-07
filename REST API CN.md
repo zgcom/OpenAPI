@@ -417,7 +417,7 @@ GET /openapi/quote/v1/trades
 名称 | 类型 | 是否强制 | 描述
 ------------ | ------------ | ------------ | ------------
 symbol | STRING | YES |
-limit | INT | NO | Default 500; max 1000.
+limit | INT | NO | Default 60; max 60.
 
 **Response:**
 

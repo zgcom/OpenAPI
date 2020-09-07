@@ -438,7 +438,7 @@ Get recent trades (up to last 500).
 Name | Type | Mandatory | Description
 ------------ | ------------ | ------------ | ------------
 symbol | STRING | YES |
-limit | INT | NO | Default 500; max 1000.
+limit | INT | NO | Default 60; max 60.
 
 **Response:**
 
