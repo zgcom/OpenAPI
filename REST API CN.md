@@ -407,7 +407,7 @@ limit | INT | NO | 默认 100; 最大 100.
 GET /openapi/quote/v1/trades
 ```
 
-获取当前最新成交（最多500）
+获取当前最新成交（最多60）
 
 **Weight:**
 1

@@ -428,7 +428,7 @@ limit | INT | NO | Default 100; max 100.
 GET /openapi/quote/v1/trades
 ```
 
-Get recent trades (up to last 500).
+Get recent trades (up to last 60).
 
 **Weight:**
 1
